@@ -1,3 +1,26 @@
+## tensorrt_cmake_module (humble) - 0.0.4-1
+
+The packages in the `tensorrt_cmake_module` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble tensorrt_cmake_module --override-release-repository-push-url git@github.com:revyos-ros/tensorrt_cmake_module-release.git` on `Fri, 17 Jan 2025 06:26:44 -0000`
+
+The `tensorrt_cmake_module` package was released.
+
+Version of package(s) in repository `tensorrt_cmake_module`:
+
+- upstream repository: https://github.com/tier4/tensorrt_cmake_module.git
+- release repository: https://github.com/revyos-ros/tensorrt_cmake_module-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.3-1`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## tensorrt_cmake_module (rolling) - 0.0.3-1
 
 The packages in the `tensorrt_cmake_module` repository were released into the `rolling` distro by running `/home/daisuke/.local/bin/bloom-release --rosdistro rolling --track rolling tensorrt_cmake_module` on `Fri, 24 Jun 2022 12:48:56 -0000`
